@@ -1,0 +1,23 @@
+
+.media:nth-child(even){
+    background-color: #d6d4d4;
+}
+
+.media {
+    border: 2px solid black;
+}
+
+.mediaP{
+    color: black;
+    font-size: 0.8em;
+    line-height:1.6;
+    direction: rtl;
+}
+
+ul {
+    direction: rtl;
+    color:black;
+    font-size: 0.8em;
+    line-height: 1.6;
+}
+
